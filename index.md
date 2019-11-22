@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="ko" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      .chair-wrapper { text-align:center; }
+      .chair-contents {
+        background-color: #f2dcdb;
+        line-height: 2;
+        display:inline-block;
+        padding: 10px;
+      }
+      .chair-contents>table { border-spacing: 12px; }
+    </style>
+  </head>
+  <body>
+    <div class="chair-wrapper">
+    <div class="chair-contents">
+    <table>
 
-You can use the [editor on GitHub](https://github.com/CCA-kr/jmgagu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <tr><th colspan="4" align="center"><font color="#dd1fff" size="3">
+      <h2>[ 다른 상품 보러가기 ]</h2>
+      ∇ 상품 이미지를 클릭하시면 해당 페이지로 이동합니다. ∇
+    </font></th></tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <tr>
+    <td><a href="http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B765824591&frm3=V2" target="_blank">
+      <img border="0" alt="" src="http://gi.esmplus.com/jumokgagu/KI/113FY-03-1.gif" width="160" height="160">
+    </a></td>
+    <td><a href="http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B769176923&frm3=V2" target="_blank">
+      <img border="0" alt="" src="http://gi.esmplus.com/jumokgagu/KI/KI-4140-1.gif" width="160" height="160">
+    </a></td>
+    <td><a href="http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B770004260&frm3=V2" target="_blank">
+      <img border="0" alt="" src="http://gi.esmplus.com/jumokgagu/KI/KI-4141-1.gif" width="160" height="160">
+    </a></td>
+    <td><a href="http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B770007793&frm3=V2" target="_blank">
+      <img border="0" alt="" src="http://gi.esmplus.com/jumokgagu/KI/KI-4142-1.gif" width="160" height="160">
+    </a></td>
+    </tr>
 
-### Markdown
+    <tr><td colspan="4"></td></tr>
+    </table>
+    </div>
+    </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CCA-kr/jmgagu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  </body>
+</html>
